@@ -1,5 +1,5 @@
 
-# Project Title: Optimizing Routes: Solving the Travelling Salesman Problem with Greedy, Brute Force, and Dynamic Programming Algorithms
+# Optimizing Routes: Solving the Travelling Salesman Problem with Greedy, Brute Force, and Dynamic Programming Algorithms
 
 # Project Description:
 
